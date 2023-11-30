@@ -1,0 +1,41 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.formatOnSave": true,
+    "emmet.includeLanguages": {
+        "postcss": "css"
+    },
+    "files.associations": {
+        "*.css": "sass"
+    },
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/.git": true,
+        "**/.hg": true,
+        "**/.svn": true,
+        "**/CVS": true,
+        "**/Thumbs.db": true,
+        "**/build": true,
+        "**/node_modules": false,
+        ".eslint*": true,
+        ".gitignore": true,
+        ".npmrc": true,
+        ".prettier*": true,
+        ".svelte-kit": true,
+        "Dockerfile": false,
+        "npm.sh": true,
+        "package-lock.json": true,
+        "playwright.config.ts": true,
+        "postcss.config.cjs": true,
+        "prisma.sh": true,
+        "svelte.config.js": true,
+        "tailwind.config.cjs": true,
+        "tsconfig.json": true,
+        "vite.config.ts": true,
+        "yarn.lock": true
+    },
+    "workbench.editor.labelFormat": "short",
+    "workbench.iconTheme": "vs-minimal",
+    "workbench.colorTheme": "Tomorrow Night Blue"
+}
